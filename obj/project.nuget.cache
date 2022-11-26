@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QE2AFGFHoLGc94Wb//oeUBqvnchKLkLyIpUDebfjBYCRe49u40GfxaWXkVIp2hlrSDLtNkwSxxVh20fQHRgr9Q==",
+  "dgSpecHash": "U42P8MO4yzz0alv023SwdcNl9/suIhMr1wFuHrVZ2hA4DTCRDM31xhoBinVhGpubq+jdKZV6YARIGnlHnMuK9Q==",
   "success": true,
   "projectFilePath": "D:\\Program Files\\Libraries\\WatchTable\\WatchTable.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\artyu\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
