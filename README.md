@@ -21,6 +21,7 @@
 * [Добавление библиотеки в приложение](#add-project)
     * [Первый способ](#first-way)
     * [Второй способ](#second-way)
+    * [Третий способ](#third-way)
 * [Создание таблицы](#create-table)
 * [Запись таблицы в файл TXT](#write-txt)
 * [Запись таблицы в файл CSV](#write-csv)
@@ -75,6 +76,12 @@ using WatchTable;
 using WatchTable;
 ```
 
+### Третий способ <a name="third-way"></a>
+Добавление библиотеки через NuGet Gallery.
+
+Здесь можно посмотреть команду https://github.com/desmond60/WatchTable/packages/1733308
+
+Вместо `Project` указывается путь к проекту `(.csproj)`
 ***
 
 ## Создание таблицы <a name="create-table"></a>
