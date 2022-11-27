@@ -6,6 +6,9 @@
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
     <img src="https://img.shields.io/badge/C Sharp-11-blue.svg?cacheSeconds=2592000" alt="language"/>
   </a>	
+   <a href="https://github.com/desmond60/WatchTable/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-yellowgreen.svg" alt="license"/>
+  </a>
   <a href="https://ru.wikipedia.org/wiki/.NET">
     <img src="https://img.shields.io/badge/.NET-7.0-important.svg?cacheSeconds=2592000" alt="standart"/>
   </a>
@@ -162,4 +165,4 @@ table.Separator = "\u2504";
 ♥┄┄┄┄┄┄♥┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄♥┄┄┄┄┄┄┄┄┄┄♥
 ```
 
-<a href="content">Вернуться к содержимому</a>
+### [Вернуться к содержимому](#content)
