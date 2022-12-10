@@ -81,7 +81,6 @@ using WatchTable;
 
 Здесь можно посмотреть команду https://github.com/desmond60/WatchTable/packages/1733308
 
-Вместо `Project` указывается путь к проекту `(.csproj)`
 ***
 
 ## Создание таблицы <a name="create-table"></a>
